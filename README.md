@@ -20,6 +20,9 @@ This project is a layout that is designed to be alluring . It gives an overview 
    
 ### Steps to run locally
 1 Clone this repository to your local machine
+## Link to live site
+https://github.com/kareeeeeey/kareeys-project
+
 
 
 
