@@ -18,7 +18,7 @@ In the underwater realm the project captures the vivid colors and intricate deta
 shifting to the cosmos, the project ventures into astrophotography showcasing the splendor of distant galaxies, and my favorite of all are thr nebula. I actually think they are so preety especially the 
 butterfly nebula.
 Now to the brainrots, Brainrots to me is just some made up fanfics or animated things that are displayed to be very entertaining either as a comedy, thriller or romance it can also be so inspiring and life changing like one of the character in the above 
-known as Naruto.
+known as Naruto, and there is also Saikki k which is just one of my comfort anime its just so good.
 
 ---
 
