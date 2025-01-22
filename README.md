@@ -6,19 +6,20 @@ kamau cynthia
 #My favorite things
 
 An anodyne, charismatic and an edgy-style image gallery which i built with the HTML and the CSS .
-The gallery features a simple but alluring theme in an inline-block
+The gallery features a simple but alluring theme.
 
 
 
 ## Project description
 
 This project is a layout that is designed to be alluring . 
-The project explains a brief overview of my interests,
-it has a character which i classify it as a brainrot since its a funny fictional character in an anime, jujutsu kaisen.
-It also talks about astronomy.
-Astronomy, the scientific study of celestial objects, space and the universe as a whole i just like how it explains the origins ,evolution and physical properties of obejects beyond earth
-such as stars, planets, moons, galaxies, black holes and one of my favorites which are Nebulas. I actually think nebulas are so alluring
-a good example is the butterfly nebula and the eye nebula.
+A journey through the wonders of the ocean, the cosmos and some few brainrots.The project celebrates the beauty of the three vastly different mesmerizing world.
+In the underwater realm the project captures the vivid colors and intricate details of the marine life from delicate movementsof the jellyfish to the majestic presence of the underground world.
+shifting to the cosmos, the project ventures into astrophotography showcasing the splendor of distant galaxies, and my favorite of all are thr nebula. I actually think they are so preety especially the 
+butterfly nebula.
+Now to the brainrots, Brainrots to me is just some made up fanfics or animated things that are displayed to be very entertaining either as a comedy, thriller or romance it can also be so inspiring and life changing like one of the character in the above 
+known as Naruto.
+
 ---
 
 ### Project setup instructions
